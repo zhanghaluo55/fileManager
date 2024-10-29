@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ASP文件管理器</string>
+
+    <string name="title_activity_child">ChildActivity</string>
+
+    <string name="toolbar_new">新建</string>
+    <string name="select_all">全选</string>
+    <string name="paste">粘贴</string>
+    <string name="search">搜索当前文件夹</string>
+    <string name="showExt">显示拓展名</string>
+</resources>
